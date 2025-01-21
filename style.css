@@ -215,3 +215,12 @@ body {
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     margin: 1rem auto; 
 }
+
+.sobremi--titulo {
+    font-family: 'Raleway', sans-serif;
+    font-size: 2rem; /* Ajusta el tamaño */
+    font-weight: 700; /* Negrita */
+    color: #333; /* Color del texto */
+    margin-bottom: 1rem;
+    text-align: center; /* Opcional: centra el título */
+}
